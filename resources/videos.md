@@ -1,4 +1,6 @@
 # Code Hour Videos
 
 
-{video:<screenshot url>:<https://www.youtube.com/watch?v=nKIu9yen5nc>} 
+`https://www.youtube.com/watch?v=nKIu9yen5nc`
+
+[[youtube-{nKIu9yen5nc}-{300}x{200}]]
