@@ -4,13 +4,29 @@ title: Checklust
 permalink: /checklist/index
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
-
+    <div class="row">
+      <div class="col-md-7 space-lg">
+        <h3><i class="twa twa-white-check-mark"></i> Usage</h3>
+        <table class="table space-md">
+          <tr>
+            <th><a href="http://twitter.github.io/twemoji/" target="_blank">Twemoji</a></th>
+            <th class="hidden-xs"><a href="http://www.emoji-cheat-sheet.com/" target="_blank">Emoji Cheat Sheet</a></th>
+            <th>HTML</th>
+          </tr>
+          <tr>
+            <td><i class="twa twa-heart"></i></td>
+            <td class="hidden-xs"><code>:heart:</code></td>
+            <td><code>&lt;i class="<strong>twa twa-heart</strong>"&gt;&lt;/i&gt;</code></td>
+          </tr>
+          <tr>
+            <td><i class="twa twa-lg twa-sparkles"></i></td>
+            <td class="hidden-xs"><code>:sparkles:</code></td>
+            <td><code>&lt;i class="<strong>twa twa-lg twa-sparkles</strong>"&gt;&lt;/i&gt;</code></td>
+          </tr>
+          <tr>
+            <td><i class="twa twa-2x twa-hatching-chick"></i></td>
+            <td class="hidden-xs"><code>:hatching_chick:</code></td>
+            <td><code>&lt;i class="<strong>twa twa-2x twa-hatching-chick</strong>"&gt;&lt;/i&gt;</code></td>
+          </tr>
+        </table>
+      </div>
