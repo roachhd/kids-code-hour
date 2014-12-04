@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/index
+permalink: /about
 ---
 
 [Source](http://hourofcode.com/au "Permalink to Join the largest learning event in history, Dec 8-14, 2014")
