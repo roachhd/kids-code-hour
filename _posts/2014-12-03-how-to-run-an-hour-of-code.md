@@ -1,13 +1,13 @@
 ---
-layout: page
-title: How to ruin an Hour of Code
+layout: post
+title: How to get started with Hour of Code
 ---
 
 [Source](http://hourofcode.com/au/resources/how-to "Permalink to How to teach one Hour of Code")
 
-# How to teach one Hour of Code
+# How to get started with Hour of Code
 
-## 1) Watch this how-to video
+## 1) Watch this [how-to video]()
 
 ## 2) Try the tutorials:
 
@@ -21,8 +21,6 @@ We'll host a variety of fun, hour-long tutorials for students of all ages, creat
 ![][1]
 
 ## 3) Check out events on the map.
-
-[Make sure to sign up][2]. We'll send you helpful info as the Hour of Code nears, and you'll see your Hour of Code on our map of worldwide events.
 
 ## 4) Plan your hardware needs - computers are optional
 
@@ -71,10 +69,9 @@ Each student gets a chance to get a certificate via email when they finish the [
 
 **What comes after the Hour of Code?**
 
-The Hour of Code is just the first step on a journey to learn more about how technology works and how to create software applications. To continue this journey, find additional resources for educators [here][8]. Or encourage your children to learn [online][9]. [Sign up your event][10]
+The Hour of Code is just the first step on a journey to learn more about how technology works and how to create software applications. To continue this journey, find additional resources for educators [here][8]. Or encourage your children to learn [online][9].
 
 [1]: http://code.org/images/tutorials.png
-[2]: /au/
 [3]: http://www.ncwit.org/resources/pair-programming-box-power-collaborative-learning
 [4]: http://code.org/girls
 [5]: http://code.org/learn
@@ -82,4 +79,3 @@ The Hour of Code is just the first step on a journey to learn more about how tec
 [7]: http://code.org/certificates
 [8]: http://code.org/educate
 [9]: http://code.org/learn/beyond
-[10]: /au/#join
