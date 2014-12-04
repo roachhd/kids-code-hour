@@ -15,12 +15,12 @@ We'll host a variety of fun, hour-long tutorials for students of all ages, creat
 
 **All Hour of Code tutorials:**
 
-* Require minimal prep-time for teachers
+* Require minimal [prep-time for teachers](/tutorials/teachers-notes/)
 * Are self-guided - allowing students to work at their own pace and skill-level
 
 ![][1]
 
-## 3) Register your Hour on the map
+## 3) Check out events on the map.
 
 [Make sure to sign up][2]. We'll send you helpful info as the Hour of Code nears, and you'll see your Hour of Code on our map of worldwide events.
 
