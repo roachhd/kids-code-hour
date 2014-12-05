@@ -3,7 +3,11 @@ layout: post
 title: 2014 Tutorial List
 categories: [Resources]
 ---
-Our activity is a set of 20 self-guided puzzles that teach the basics of computer science for users with no prior experience. In each puzzle, students write a program that gets a character through a maze. The activity uses Blockly, a visual programming language that has blocks you drag and drop to write programs. The activity includes instructional videos before puzzles #1, 6, 10, 14, 18, and a wrap-up video after the last puzzle. The characters in our activity are from the popular kids’ games Angry Birds and Plants vs. Zombies.
+Our activity is a set of 20 self-guided puzzles that teach the basics of computer science for users with no prior experience.
+
+In each puzzle, students write a program that gets a character through a maze. The activity uses Blockly, a visual programming language that has blocks you drag and drop to write programs. 
+
+The activity includes instructional videos before puzzles #1, 6, 10, 14, 18, and a wrap-up video after the last puzzle. The characters in our activity are from the popular kids’ games Angry Birds and Plants vs. Zombies.
 
 ---
 
