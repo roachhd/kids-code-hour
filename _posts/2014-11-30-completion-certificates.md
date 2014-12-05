@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Completion Certificates
-categories: [ Resources, On the day]
+categories: [ Resources, Educator Notes]
 ---
 
 When you complete any part of the **Hour of Code** for your **Hour of Code** event.
