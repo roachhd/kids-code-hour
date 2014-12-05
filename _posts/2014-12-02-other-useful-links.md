@@ -20,15 +20,14 @@ The content of this course is appropriate for kindergartners through 8th graders
 ---
 
 
-    <section class="row content" role="main">
-      <div class="twelve columns">
-        <div class="slice text">
-  <h2 id="further-resources">Further resources</h2>
+<section class="row content" role="main">
+<div class="twelve columns">
+<div class="slice text">
+<h2 id="further-resources">Further resources</h2>
 </div>
 
 <div class="slice text">
-  <h3 id="online-learning-tools">Online learning tools</h3>
-
+<h3 id="online-learning-tools">Online learning tools</h3>
 </div>
 
 <div class="slice boxes">
