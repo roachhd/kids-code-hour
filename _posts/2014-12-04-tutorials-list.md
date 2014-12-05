@@ -3,23 +3,11 @@ layout: post
 title: Hour of Code Tutorial List
 categories: [Resources]
 ---
-![Codeorg studio logo][3]
+Our activity is a set of 20 self-guided puzzles that teach the basics of computer science for users with no prior experience. In each puzzle, students write a program that gets a character through a maze. The activity uses Blockly, a visual programming language that has blocks you drag and drop to write programs. The activity includes instructional videos before puzzles #1, 6, 10, 14, 18, and a wrap-up video after the last puzzle. The characters in our activity are from the popular kids’ games Angry Birds and Plants vs. Zombies.
 
-[Sign in][4]
-
-[ Student Sign Up ][5] [ Teacher Sign Up ][6]
-
-[ Sign in ][7]
-
-Already registered?
-
-
-
-
-## The Hour of Code for
-
-# All Ages
-
+---
+### 2014 Tutorials
+ 
 [ ![Logo tall frozen][8]
 
 ###  Frozen
