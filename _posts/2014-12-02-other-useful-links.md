@@ -187,24 +187,16 @@ The content of this course is appropriate for kindergartners through 8th graders
 
 <p><a href="https://youngrewiredstate.org/" class="button round primary">Young Rewired State</a></p>
 
-        </div>
-      </div>
+  </div>
+ </div>
   </div>
 
+</div> 
 </div>
-
-
-      </div>
-
-      <div class="eight columns">
-        
-      </div>
-
-      <div class="four columns pad-left">
-        
-      </div>
-
-      <div class="twelve columns">
-        
-      </div>
-    </section>
+<div class="eight columns">
+</div>
+<div class="four columns pad-left">
+</div>
+<div class="twelve columns">
+</div>
+</section>
