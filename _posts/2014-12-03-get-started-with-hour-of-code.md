@@ -5,7 +5,7 @@ categories: [Resources]
 ---
 We'll host a variety of fun, hour-long tutorials for students of all ages, created by a variety of partners. New tutorials are coming to kick off the Hour of Code before December 8-14.
 
-All Hour of Code tutorials require minimal [prep-time for teachers](/tutorials/educators-notes/). And are self-guided - allowing students to work at their own pace and skill-level
+All Hour of Code tutorials require minimal [prep-time for teachers](/resources/educator-notes/). And are self-guided - allowing students to work at their own pace and skill-level
 
 ![][1]
 
