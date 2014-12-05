@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hour of Code Tutorials
-categories: [resources]
+title: Hour of Code Tutorial List
+categories: [Resources]
 ---
 ![Codeorg studio logo][3]
 
