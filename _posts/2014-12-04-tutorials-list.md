@@ -1,81 +1,82 @@
 ---
 layout: post
-title: Hour of Code Tutorial List
+title: 2014 Tutorial List
 categories: [Resources]
 ---
 Our activity is a set of 20 self-guided puzzles that teach the basics of computer science for users with no prior experience. In each puzzle, students write a program that gets a character through a maze. The activity uses Blockly, a visual programming language that has blocks you drag and drop to write programs. The activity includes instructional videos before puzzles #1, 6, 10, 14, 18, and a wrap-up video after the last puzzle. The characters in our activity are from the popular kids’ games Angry Birds and Plants vs. Zombies.
 
 ---
-**2014 Tutorials**
- 
+### Hour of Code Tutorials
+
 ![Logo tall frozen][8]
 
-###  Frozen
+####  Frozen
 
 [Let's use code to join Anna and Elsa as they explore the magic and beauty of ice.
 
-][9]
+[Start][9]
 
 ![Logo tall hourofcode][10]
 
-###  Hour of Code
+####  Hour of Code
 
 Try the basics of computer science with many fun characters!
 
-][11]
+[Start][11]
 
 ![Logo tall playlab][12]
 
-###  Play Lab
+####  Play Lab
 
 Create a story or make a game with Play Lab!
 
-][13]
+[Start][13]
 
 ![Logo tall flappy][14]
 
-###  Flappy Code
+####  Flappy Code
 
 Wanna write your own game in less than 10 minutes? Try our Flappy Code tutorial!
 
-][15]
+[Start][15]
 
 
+---
 
 
-## 20 hour courses for
-
-# Beginners (all ages)
+### 20 hour courses for Beginners (all ages)
 
 ![Logo tall course1][16]
 
-###  Course 1
+####  Course 1
 
 Course 1 is designed for early readers.
 
 Ages 4+ (pre-readers)
 
-][17]
+[Start][17]
 
 ![Logo tall course2][18]
 
-###  Course 2
+####  Course 2
 
 Course 2 is designed for students who can read.
 
 Ages 6+ (reading required)
 
-][19]
+[Start][19]
 
 ![Logo tall course3][20]
 
-###  Course 3
+####  Course 3
 
 Course 3 is a follow-up to Course 2.
 
 Ages 8+ (after Course 2)
 
-][21]
+[Start][21]
+
+---
 
 ### All Ages Intro Course
 
@@ -83,7 +84,10 @@ Try our 20-hour Intro to Computer Science course.
 
 ![][34]
 
-[35][Intro Course]
+[Start here][35]
+
+
+
 
 [1]: https://support.code.org/hc/en-us/requests/new
 [2]: https://support.code.org/hc/en-us/articles/202591743
