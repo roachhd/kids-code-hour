@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Get Started with Hour of Code
+title: Get Started
 categories: [Resources]
 ---
 We'll host a variety of fun, hour-long tutorials for students of all ages, created by a variety of partners. New tutorials are coming to kick off the Hour of Code before December 8-14.
