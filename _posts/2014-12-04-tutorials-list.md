@@ -6,39 +6,34 @@ categories: [Resources]
 Our activity is a set of 20 self-guided puzzles that teach the basics of computer science for users with no prior experience. In each puzzle, students write a program that gets a character through a maze. The activity uses Blockly, a visual programming language that has blocks you drag and drop to write programs. The activity includes instructional videos before puzzles #1, 6, 10, 14, 18, and a wrap-up video after the last puzzle. The characters in our activity are from the popular kids’ games Angry Birds and Plants vs. Zombies.
 
 ---
-### Hour of Code Tutorials
+
+
+### The Hour of Code for All Ages
+
 
 ![Logo tall frozen][8]
 
 ####  Frozen
 
-[Let's use code to join Anna and Elsa as they explore the magic and beauty of ice.
-
-[Start][9]
+[Let's use code to join Anna and Elsa as they explore the magic and beauty of ice][9].
 
 ![Logo tall hourofcode][10]
 
-####  Hour of Code
+#### Hour of Code
 
-Try the basics of computer science with many fun characters!
-
-[Start][11]
+[Try the basics of computer science with many fun characters!][11]
 
 ![Logo tall playlab][12]
 
 ####  Play Lab
 
-Create a story or make a game with Play Lab!
-
-[Start][13]
+[Create a story or make a game with Play Lab!][13]
 
 ![Logo tall flappy][14]
 
 ####  Flappy Code
 
-Wanna write your own game in less than 10 minutes? Try our Flappy Code tutorial!
-
-[Start][15]
+[Wanna write your own game in less than 10 minutes? Try our Flappy Code tutorial!][15]
 
 
 ---
@@ -53,10 +48,10 @@ Wanna write your own game in less than 10 minutes? Try our Flappy Code tutorial!
 Course 1 is designed for early readers.
 
 Ages 4+ (pre-readers)
-
 [Start][17]
 
 ![Logo tall course2][18]
+
 
 ####  Course 2
 
@@ -68,6 +63,7 @@ Ages 6+ (reading required)
 
 ![Logo tall course3][20]
 
+
 ####  Course 3
 
 Course 3 is a follow-up to Course 2.
@@ -76,7 +72,10 @@ Ages 8+ (after Course 2)
 
 [Start][21]
 
+
 ---
+
+
 
 ### All Ages Intro Course
 
