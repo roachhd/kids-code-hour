@@ -84,40 +84,9 @@ Ages 8+ (after Course 2)
 
 # Play Lab
 
-# Artist
-
-![Original image][22]
-
-![Original image][23]
-
-![Original image][24]
-
-![Original image][25]
-
-![Original image][26]
-
-![Original image][27]
-
-![Original image][28]
-
-![Original image][29]
-
-![Original image][30]
-
-![Original image][31]
-
-![Original image][32]
-
-![Original image][33]
-
-
-
-
 ## Our general course for
 
 # All Ages
-
-[
 
 ### Intro Course
 
@@ -125,32 +94,7 @@ Try our 20-hour Intro to Computer Science course.
 
 ![][34]
 
-][35]
-
-
-
-
-
-
-[Help us translate to your language][36]
-
-    |    
-
-[Secure Version][37]
-
-    |    
-
-[Support][38]
-
-Engineers from Google, Microsoft, Facebook, and Twitter helped create this tutorial.
-Angry Birds™ & © 2009 - 2014 Rovio Entertainment Ltd. All Rights Reserved.
-Plants vs. Zombies™ & © 2014 Electronic Arts Inc. All Rights Reserved.
-Powered by Amazon Web Services
-
-العربية Azərbaycan dili български català čeština dansk Deutsch ελληνικά English español فارسی suomi français עברית magyar Bahasa Indonesia Íslenska Italiano 日本語 한국어 Lietuvių Nederlands Norsk język polski Português (Brasil) Português (Portugal) Română русский язык српски језик Svenska Türkçe українська мова 繁體字 简体字 [Terms][39]     |     [Privacy Policy][40]
-
-
-© Code.org, 2014
+[35][Intro Course]
 
 [1]: https://support.code.org/hc/en-us/requests/new
 [2]: https://support.code.org/hc/en-us/articles/202591743
@@ -173,18 +117,6 @@ Powered by Amazon Web Services
 [19]: http://studio.code.org/s/course2
 [20]: http://studio.code.org/assets/logo_tall_course3-04db9f86ed1f91e8a79e2d8fcfc25b77.jpg
 [21]: http://studio.code.org/s/course3
-[22]: /u/51824664/original_image
-[23]: /u/51819539/original_image
-[24]: /u/51818451/original_image
-[25]: /u/51818312/original_image
-[26]: /u/51818286/original_image
-[27]: /u/51818041/original_image
-[28]: /u/32458509/original_image
-[29]: /u/51826174/original_image
-[30]: /u/51825882/original_image
-[31]: /u/40216989/original_image
-[32]: /u/33130978/original_image
-[33]: /u/32533340/original_image
 [34]: //code.org/images/fit-520/code20hr.jpg
 [35]: http://studio.code.org/s/1
 [36]: http://eepurl.com/Im_In
