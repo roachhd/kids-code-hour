@@ -8,11 +8,11 @@ Our activity is a set of 20 self-guided puzzles that teach the basics of compute
 ---
 ### 2014 Tutorials
  
-[ ![Logo tall frozen][8]
+![Logo tall frozen][8]
 
 ###  Frozen
 
-Let's use code to join Anna and Elsa as they explore the magic and beauty of ice.
+[Let's use code to join Anna and Elsa as they explore the magic and beauty of ice.
 
 ][9]
 
