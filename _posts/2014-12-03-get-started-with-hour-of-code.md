@@ -3,23 +3,15 @@ layout: post
 title: Get Started with Hour of Code
 categories: [Resources]
 ---
-
-[Source](http://hourofcode.com/au/resources/how-to "Permalink to How to teach one Hour of Code")
-
-# How to get started with Hour of Code
-
-## 1) Watch this [how-to video]()
-
-## 2) Try the tutorials:
-
 We'll host a variety of fun, hour-long tutorials for students of all ages, created by a variety of partners. New tutorials are coming to kick off the Hour of Code before December 8-14.
 
-**All Hour of Code tutorials:**
-
-* Require minimal [prep-time for teachers](/tutorials/teachers-notes/)
-* Are self-guided - allowing students to work at their own pace and skill-level
+All Hour of Code tutorials require minimal [prep-time for teachers](/tutorials/educators-notes/). And are self-guided - allowing students to work at their own pace and skill-level
 
 ![][1]
+
+# 1) Watch this [how-to video]()
+
+## 2) Try the [tutorials](kids-code-hour/tutorials-list/)
 
 ## 3) Check out events on the map.
 
@@ -38,7 +30,7 @@ The best Hour of Code experience will be with Internet-connected computers. But 
 
 ## 6) Inspire students - show them a video
 
-Show students an inspirational video to kick off the Hour of Code. Examples:
+Show students an inspirational video to kick off the Hour of Code
 
 **Get your students excited - give them a short intro**
 
