@@ -6,7 +6,7 @@ categories: [Resources]
 Our activity is a set of 20 self-guided puzzles that teach the basics of computer science for users with no prior experience. In each puzzle, students write a program that gets a character through a maze. The activity uses Blockly, a visual programming language that has blocks you drag and drop to write programs. The activity includes instructional videos before puzzles #1, 6, 10, 14, 18, and a wrap-up video after the last puzzle. The characters in our activity are from the popular kids’ games Angry Birds and Plants vs. Zombies.
 
 ---
-### 2014 Tutorials
+**2014 Tutorials**
  
 ![Logo tall frozen][8]
 
@@ -16,7 +16,7 @@ Our activity is a set of 20 self-guided puzzles that teach the basics of compute
 
 ][9]
 
-[ ![Logo tall hourofcode][10]
+![Logo tall hourofcode][10]
 
 ###  Hour of Code
 
@@ -24,7 +24,7 @@ Try the basics of computer science with many fun characters!
 
 ][11]
 
-[ ![Logo tall playlab][12]
+![Logo tall playlab][12]
 
 ###  Play Lab
 
@@ -32,7 +32,7 @@ Create a story or make a game with Play Lab!
 
 ][13]
 
-[ ![Logo tall flappy][14]
+![Logo tall flappy][14]
 
 ###  Flappy Code
 
@@ -47,7 +47,7 @@ Wanna write your own game in less than 10 minutes? Try our Flappy Code tutorial!
 
 # Beginners (all ages)
 
-[ ![Logo tall course1][16]
+![Logo tall course1][16]
 
 ###  Course 1
 
@@ -57,7 +57,7 @@ Ages 4+ (pre-readers)
 
 ][17]
 
-[ ![Logo tall course2][18]
+![Logo tall course2][18]
 
 ###  Course 2
 
@@ -67,7 +67,7 @@ Ages 6+ (reading required)
 
 ][19]
 
-[ ![Logo tall course3][20]
+![Logo tall course3][20]
 
 ###  Course 3
 
@@ -81,7 +81,7 @@ Ages 8+ (after Course 2)
 
 Try our 20-hour Intro to Computer Science course.
 
-[ ![][34]
+![][34]
 
 [35][Intro Course]
 
