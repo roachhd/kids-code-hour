@@ -21,18 +21,9 @@ The content of this course is appropriate for kindergartners through 8th graders
 
 
 <h2 id="further-resources">Further resources</h2>
-</div>
 
-<div class="slice text">
 <h3 id="online-learning-tools">Online learning tools</h3>
-</div>
-
-<div class="slice boxes">
-
-  <div class="row">
-      <div class="three columns morepanel">
-        <div class="wrap">
-          <p><img alt="Codecademy" height="200" src="https://www.codeclub.org.uk/system/files/032013/51508a3e9d200f2c21000014/original/codecademy.png?1364232766" width="200" /></p>
+<p><img alt="Codecademy" height="200" src="https://www.codeclub.org.uk/system/files/032013/51508a3e9d200f2c21000014/original/codecademy.png?1364232766" width="200" /></p>
           <h4 id="codecademy">Codecademy</h4>
 
 <p>Learn to create interactive websites, fun games, and killer apps</p>
@@ -61,11 +52,7 @@ The content of this course is appropriate for kindergartners through 8th graders
 
 <p><a href="http://www.khanacademy.org/" class="button round primary">Khan Academy</a></p>
 
-        </div>
-      </div>
-      <div class="three columns morepanel">
-        <div class="wrap">
-          <p><img alt="Treehouse" height="200" src="https://www.codeclub.org.uk/system/files/032013/51508b4b9d200f311e000061/original/treehouse.png?1364233035" width="200" /></p>
+        <p><img alt="Treehouse" height="200" src="https://www.codeclub.org.uk/system/files/032013/51508b4b9d200f311e000061/original/treehouse.png?1364233035" width="200" /></p>
           <h4 id="treehouse">Treehouse</h4>
 
 <p>Learn to build websites, create iPhone and Android apps, code with Ruby on Rails and PHP.</p>
