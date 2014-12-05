@@ -9,13 +9,13 @@ All Hour of Code tutorials require minimal [prep-time for teachers](/tutorials/e
 
 ![][1]
 
-# 1) Watch this [how-to video]()
+### 1) Watch this [how-to video]()
 
-## 2) Try the [tutorials](kids-code-hour/tutorials-list/)
+### 2) Try the [tutorials](kids-code-hour/tutorials-list/)
 
-## 3) Check out events on the map.
+### 3) Check out events on the map.
 
-## 4) Plan your hardware needs - computers are optional
+### 4) Plan your hardware needs - computers are optional
 
 The best Hour of Code experience will be with Internet-connected computers. But you don't need a computer for every child, and can even do the Hour of Code without a computer at all.
 
@@ -23,12 +23,12 @@ The best Hour of Code experience will be with Internet-connected computers. But 
 * **Preview the congrats page** to see what students will see when they finish.
 * **Provide headphones for your class**, or ask students to bring their own, if the tutorial you choose works best with sound.
 
-## 5) Plan ahead based on your technology available
+### 5) Plan ahead based on your technology available
 
 * **Don't have enough devices?** Use [pair programming][3]. When students partner up, they help each other and rely less on the teacher. They'll also see that computer science is social and collaborative.
 * **Have low bandwidth?** Plan to show videos at the front of the class, so each student isn't downloading their own videos. Or try the unplugged / offline tutorials.
 
-## 6) Inspire students - show them a video
+### 6) Inspire students - show them a video
 
 Show students an inspirational video to kick off the Hour of Code
 
@@ -41,7 +41,7 @@ Most kids don't know what computer science is. Here are some ideas:
 * Or: "Computer science is the art of blending human ideas and digital tools to increase our power. Computer scientists work in so many different areas: writing apps for phones, curing diseases, creating animated movies, working on social media, building robots that explore other planets and so much more."
 * See tips for getting girls interested in computer science [here][4].
 
-## 7) Start your Hour of Code
+### 7) Start your Hour of Code
 
 **Direct students to the activity**
 
