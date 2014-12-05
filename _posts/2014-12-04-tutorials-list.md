@@ -16,24 +16,28 @@ The activity includes instructional videos before puzzles #1, 6, 10, 14, 18, and
 
 ####  Frozen
 ![Logo tall frozen][8]
+
 [Let's use code to join Anna and Elsa as they explore the magic and beauty of ice][9].
 
 ---
 
 #### Hour of Code
 ![Logo tall hourofcode][10]
+
 [Try the basics of computer science with many fun characters!][11]
 
 ---
 
 ####  Play Lab
 ![Logo tall playlab][12]
+
 [Create a story or make a game with Play Lab!][13]
 
 ---
 
 #### Flappy Code
 ![Logo tall flappy][14]
+
 [Wanna write your own game in less than 10 minutes? Try our Flappy Code tutorial!][15]
 
 
@@ -45,6 +49,7 @@ The activity includes instructional videos before puzzles #1, 6, 10, 14, 18, and
 
 ####  Course 1
 ![Logo tall course1][16]
+
 Course 1 is designed for early readers.
 Ages 4+ (pre-readers)
 [Start][17]
@@ -53,6 +58,7 @@ Ages 4+ (pre-readers)
 
 #### Course 2
 ![Logo tall course2][18]
+
 Course 2 is designed for students who can read.
 Ages 6+ (reading required)
 [Start][19]
@@ -62,6 +68,7 @@ Ages 6+ (reading required)
 
 ####  Course 3
 ![Logo tall course3][20]
+
 Course 3 is a follow-up to Course 2.
 Ages 8+ (after Course 2)
 [Start][21]
@@ -74,6 +81,7 @@ Ages 8+ (after Course 2)
 ### All Ages Intro Course
 
 Try our 20-hour Intro to Computer Science course.
+
 ![][34]
 
 [Start here][35]
