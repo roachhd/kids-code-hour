@@ -88,10 +88,6 @@ Try our 20-hour Intro to Computer Science course.
 [1]: https://support.code.org/hc/en-us/requests/new
 [2]: https://support.code.org/hc/en-us/articles/202591743
 [3]: /assets/codeorg-studio-logo-ab9fbef5744e7d26dd423357f7c93a8a.png
-[4]: http://studio.code.org/users/sign_in
-[5]: /users/sign_up
-[6]: /users/sign_up?user%5Buser_type%5D=teacher
-[7]: /users/sign_in
 [8]: http://studio.code.org/assets/logo_tall_frozen-fdf4b7f1af4aeff25522f257a30af5dc.jpg
 [9]: http://studio.code.org/s/frozen/reset
 [10]: http://studio.code.org/assets/logo_tall_hourofcode-1ff365b0d094938502fcf42c9c73cda7.jpg
@@ -106,7 +102,7 @@ Try our 20-hour Intro to Computer Science course.
 [19]: http://studio.code.org/s/course2
 [20]: http://studio.code.org/assets/logo_tall_course3-04db9f86ed1f91e8a79e2d8fcfc25b77.jpg
 [21]: http://studio.code.org/s/course3
-[34]: //code.org/images/fit-520/code20hr.jpg
+[34]: http://code.org/images/fit-520/code20hr.jpg
 [35]: http://studio.code.org/s/1
 [36]: http://eepurl.com/Im_In
 [37]: https://studio.code.org/
