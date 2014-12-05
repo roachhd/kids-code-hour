@@ -1,6 +1,7 @@
 ---
 layout: post
-title: How to get started with Hour of Code
+title: Get Started with Hour of Code
+categories: [Resources]
 ---
 
 [Source](http://hourofcode.com/au/resources/how-to "Permalink to How to teach one Hour of Code")
