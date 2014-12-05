@@ -16,5 +16,5 @@ Take a [look](http://code.org/congrats) at the *congratulations* screen.
 
 
 ###### Completion Certificates
-![ Completion Certificates](http://code.org/printcertificate/images/hour_of_code_certificate.jpg)
+![Completion Certificates](http://code.org/printcertificate/images/hour_of_code_certificate.jpg)
 
