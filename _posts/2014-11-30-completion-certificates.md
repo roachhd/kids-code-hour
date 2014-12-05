@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Links for Hosts
+title: Awesome Completion Certificates
 ---
 
-Below you week find a number of links to resources for your **Hour of Code** event.
+When you complete any part of the **Hour of Code** for your **Hour of Code** event.
 
 
 - Get your completion certificates ready for the day by setting up a batch print [here](http://code.org/certificates). 
