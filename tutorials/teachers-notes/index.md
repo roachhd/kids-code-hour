@@ -431,31 +431,30 @@ Ask students to read the code that is already out on the workspace. "If there's 
 [13]: http://www.google.com/url?q=http%3A%2F%2Fforums.code.org%2F%3Fforum%3D322773&sa=D&sntz=1&usg=AFQjCNH6dDk2YqsQ_u3qIF-h6QqdkoxNUw
 [14]: http://www.google.com/url?q=http%3A%2F%2Fcode.org%2Flearn&sa=D&sntz=1&usg=AFQjCNFhmEDLA-vSnHUIpqBFP86aAii4mQ
 [15]: http://www.google.com/url?q=http%3A%2F%2Flearn.code.org&sa=D&sntz=1&usg=AFQjCNHd_Z_P7IbMlbMA2V3omPsBzIK2HQ
-[16]: https://lh6.googleusercontent.com/17Uiaz9x_EpfYbLXSpt3tq6iWPaUxrraj2FZGmh7moOa7VLmrCq8v0_j06Au1fwF-zW58tsn6WJUIKyXzWwIx9nzKRYEtMY70NLj-5OF_JTPGCT-LeTyyHnvR9s ""
-[17]: https://lh4.googleusercontent.com/-pEAqhjfUnGyPfxEMeSvb5U0YEkqn7cjDnBukz4x87ee217rFJZsocvIgdJuyzc7gxR80KiOTELvwbF5H6VVgb0mGyU6zhOiFRHsFSecahRYFs7W_iJtiA61_AM ""
-[18]: https://lh6.googleusercontent.com/o4s09wDdh3hWoL_-TEgPJXjtN7WhDfmxNjGrXbakSEP9Z3fXYu3XNydJL86uVm6MBn1UTqpd86Q-gepwm6DnLMkFbyPRvW_CnQGtH6Ux_YJ6_H18ON5EZX3TpNQ ""
-[19]: https://lh3.googleusercontent.com/HXrp4ba57HHMbnZUVvXsskhFsoqPQUksFEdNGuA52imNRgOZbROQTUNr5_a33dLnvAEeECrWDXCZxTR9IdxhR2qSWj7vD-Yhgk9cyruRya-XgeHbU-f2r1u14-U ""
-[20]: https://lh3.googleusercontent.com/2635Dk5fqNy-xIbfY645Kxxj7OduGn_TLVMpL_iAZ3wFj-dgRAv4yl244tHC3uzxa3mywGHbu6iqlscWHytOyz74y1Fhqj25LxmrZhUFLjg1nSCR319ZQQEFn-E ""
-[21]: https://lh5.googleusercontent.com/RirdPEUzz-lNci4CVafB7Hxu_ClBRiHCXQa8sUDh4QtuEYEU5YQibKHiEk9IX5s2yfngsVQ0Q80NliMQs59_wNVwQN_v-TNCLmUbKYt45fF-fLHyWzoAW0hDRRs ""
-[22]: https://lh4.googleusercontent.com/Bhso0m2qkJDeAP-jTYqiOSiEODYWvmMf922fEomEKwbPl4burZOZlf3ITstC_LZNamqECiaHIB_ADRomccKLvTDTPLv8CDRxq_m5JPGu-d-kFwo00JpPUfnp9_c ""
-[23]: https://lh3.googleusercontent.com/VjOWKCi63U7z5nHjs01ES74464DSsyu2VYotcdpQmnKqSo03cysC4LLHBipgFE4MmcXBkqHA3Sync3Dr-Yrqiq7xbo_1E5APMPIa6TBpbuKDEgEnTg1KQ98Y2O0 ""
-[24]: https://lh4.googleusercontent.com/IBipVrbtjun1PxIDmY7ifQq18y5EZpH6cnau0dU_KFErvT6nbaudMAunSX8_qTSaZgHok88xnvEvJHJYGHADzp6BW1zw0kLfMMVw0F7PBLTUjQzdD4i4V-FmZ2w ""
-[25]: https://lh5.googleusercontent.com/vJ3H6AE3YaSGJQgTJnb-_SgM1EWfvBtb4tlDdPUgXyF148cAw_oPkepmEwgsO0o3fP3NKGgOdpNHntRyIrX7U9kX1ezxKJigumALMsQpNjc30UGCJ8TSlbJ5t5c ""
-[26]: https://lh4.googleusercontent.com/_bp1X2dpsnKTBPDHNcQELoJ8YrtlhC3UzLzVmvMLnksQWPOWIQmouhG4EvxVFJwlMUGIpujXputLkmxH-P4nZdhT54pSyyeh6ATIgLAqk31D6lbqVG-D_7iwTjE ""
-[27]: https://lh5.googleusercontent.com/6PYFIWY4uI_flZ_JtzFEtgzWEon-z9YO3-PpXH84mXSaTtfY4df-zynGiGxaLhwBmGHM1kmVMjJIO69-BImn7w_qChzoV_nbnBXTYiDycB5YZCy6rmxJUffe-7A ""
-[28]: https://lh3.googleusercontent.com/wqJTF4vcRcsT_CviSzaTW2_8BKXxvLvKKQ-NltwTfLnRXOM2Z6VIEdZDeoQJiMrcPe34Y2bclBPPdykj1DHmoEPcg189dVgfggumKxceFIpL69_YwEwC6e82P9U ""
-[29]: https://lh5.googleusercontent.com/_X3FD5CVJQcmDrA8UVdtQdn7DX0E2xiPmiup4BYGCrhK27jRSN5W-POMjNPdfpUt1okl9lTZuPyM6Hb5lEK-rRHQJ2uLLqLQ3PrwtGg0LL0iUpZfj_8oc_1Lk2U ""
-[30]: https://lh6.googleusercontent.com/7Y8wZiSGlz4wN0XcVmodCItsNYmsq-kIymW33j5AlQF-7dMMlL1QvpQ9qa4hS-uNZl-yFTINWbrYiIwxuCUAPvu6IcFlWbEa2y--vJQI1RCQhBAh8pS8AAqDxY8 ""
-[31]: https://lh4.googleusercontent.com/RyBbQjXGf64Uib1xIcuzvmBlBcXA0JM1A7zOmEfTE5m3LMlTco1qb2wMpE7H93ZGRYBIJuN3TGxzviQGmdOzh8_0DmIUMHDXX_tCrMYPIu0FIBGMkXo1upOcWbk ""
-[32]: https://lh5.googleusercontent.com/i2yMs4zXs2nApBVr_s3p8DLkfNXQXxAylVlw9aNocvvnvH6Ksoy1pfqhW74ypS4UHI7Ew6XuFenJIe3tyLuTfmbaFljMKlKS1soQMfHmJIIXhxKkHFwaBNapNfw ""
-[33]: https://lh3.googleusercontent.com/pO6r4sFDHGX628ThuG2obUQKbyB_q6lDcqMoJPml5g38FP5fv4ZkVUJxkH_Izr5OIMEQh_L9l9xQBMuXF8w-RGqRpm0GlaRKeBR-_YdLOs68IICRq-fLNWrndPw ""
-[34]: https://lh6.googleusercontent.com/DmpMedFzQnINl-V4Tf5kcJFNVx_70Zh-tskAN7K1rjsUZE644yp0oQjxr-BRZ-HoIBAN5lT6Usc_gOcnKOYhS_iqpzSZyYB5aqivr8rw59pMPdBHnvDlBI4yTmo ""
-[35]: https://lh3.googleusercontent.com/0He0w82kw31t0O2aQW8Ydpqt_3LCXXNFyPWG8l_4uTpkS-jKInXF9wzXgdwhhfVkjwTi8RSnwJN2nsoHUHIkAcilwkE-C7ZOPQTg1PpbQE1v-TNvVHlN1i2C3Hw ""
-[36]: https://lh4.googleusercontent.com/X7exajKcCs7ugKQgcdQBrGmSS42EzZL0xHrsc0xmyonsKkrr97VjtoHPhanxKSzJmNJG8eNWa9iMYmL-fNUvGs02cpUPbG01gygdyBxwAVNFV71xmZyhJYmvngE ""
-[37]: https://lh3.googleusercontent.com/f41L7lhOBQSUmDNk2zu5wt2vSbKjy9IG7Hf7P5-sdBpCq5fjmNuktzEIMrRyYoQTAhAJi_71m7e06lvFCULRua-r2fPcIwKaqTIeR6wCA78d58FtmFBmyS05-FA ""
-[38]: https://lh3.googleusercontent.com/W_RU_hmrBjRVUq4Cv5lJBTfiM0Ax9yXRtZVJ9wrSWh24VwHxxEgtSfcBKIrpHoQ29j8DD2ZNigboahq2V4gOnkrRqRfqu0tS7QX59HDikBum1exq9Be037FIPXY ""
-[39]: https://lh4.googleusercontent.com/GhO9z1xqrsQ5ym3TBsCyVL6NNm4NBZsl6ivB_flNpc_0_iTbXXLSbrKwQd6zmFQMi3hQyZSb0yY3Wf2aTWh_7oMh14lWFBx6-MDnIK0fIJWosBI0tiBVf65cud0 ""
-[40]: https://lh4.googleusercontent.com/Q--_CFUSnNUsj9MOld2EPDb-Kx1PHBfP-l-lp4jh7n4iKVFxjFBvhdHlMj0D-QMGBpeAdUAeQA0mMouhnRgvUFGYUVLnA1xL1jumTVVdRU3E0OXP7IFXXTLGj2g ""
-[41]: https://lh3.googleusercontent.com/XdDEYB2yn7bQQ2JbdBzLciiHRdqP9zo_ZJbsabtGqpPAQNjXWDmJRRVRdr_Ce8mAqxARUvwdwKspFyRHUS3g0IAwPVMFYPo0kIvr2ZFKAeCxqqxmkTpMNUFgz0U ""
-[42]: https://lh4.googleusercontent.com/PI7QLfqCPr57h52SlnXHY4h715U72N_kAsW7b0KAMjQp4f68XTH3jWv9kPlJfRv3woOcbT41VwX6D3P8Hah4tgazX2D9iK6geuEbZCw7GIoeMHDh1WmNwccYGg8 ""
-  
+[16]: https://lh6.googleusercontent.com/17Uiaz9x_EpfYbLXSpt3tq6iWPaUxrraj2FZGmh7moOa7VLmrCq8v0_j06Au1fwF-zW58tsn6WJUIKyXzWwIx9nzKRYEtMY70NLj-5OF_JTPGCT-LeTyyHnvR9s 
+[17]: https://lh4.googleusercontent.com/-pEAqhjfUnGyPfxEMeSvb5U0YEkqn7cjDnBukz4x87ee217rFJZsocvIgdJuyzc7gxR80KiOTELvwbF5H6VVgb0mGyU6zhOiFRHsFSecahRYFs7W_iJtiA61_AM 
+[18]: https://lh6.googleusercontent.com/o4s09wDdh3hWoL_-TEgPJXjtN7WhDfmxNjGrXbakSEP9Z3fXYu3XNydJL86uVm6MBn1UTqpd86Q-gepwm6DnLMkFbyPRvW_CnQGtH6Ux_YJ6_H18ON5EZX3TpNQ 
+[19]: https://lh3.googleusercontent.com/HXrp4ba57HHMbnZUVvXsskhFsoqPQUksFEdNGuA52imNRgOZbROQTUNr5_a33dLnvAEeECrWDXCZxTR9IdxhR2qSWj7vD-Yhgk9cyruRya-XgeHbU-f2r1u14-U 
+[20]: https://lh3.googleusercontent.com/2635Dk5fqNy-xIbfY645Kxxj7OduGn_TLVMpL_iAZ3wFj-dgRAv4yl244tHC3uzxa3mywGHbu6iqlscWHytOyz74y1Fhqj25LxmrZhUFLjg1nSCR319ZQQEFn-E 
+[21]: https://lh5.googleusercontent.com/RirdPEUzz-lNci4CVafB7Hxu_ClBRiHCXQa8sUDh4QtuEYEU5YQibKHiEk9IX5s2yfngsVQ0Q80NliMQs59_wNVwQN_v-TNCLmUbKYt45fF-fLHyWzoAW0hDRRs 
+[22]: https://lh4.googleusercontent.com/Bhso0m2qkJDeAP-jTYqiOSiEODYWvmMf922fEomEKwbPl4burZOZlf3ITstC_LZNamqECiaHIB_ADRomccKLvTDTPLv8CDRxq_m5JPGu-d-kFwo00JpPUfnp9_c 
+[23]: https://lh3.googleusercontent.com/VjOWKCi63U7z5nHjs01ES74464DSsyu2VYotcdpQmnKqSo03cysC4LLHBipgFE4MmcXBkqHA3Sync3Dr-Yrqiq7xbo_1E5APMPIa6TBpbuKDEgEnTg1KQ98Y2O0 
+[24]: https://lh4.googleusercontent.com/IBipVrbtjun1PxIDmY7ifQq18y5EZpH6cnau0dU_KFErvT6nbaudMAunSX8_qTSaZgHok88xnvEvJHJYGHADzp6BW1zw0kLfMMVw0F7PBLTUjQzdD4i4V-FmZ2w 
+[25]: https://lh5.googleusercontent.com/vJ3H6AE3YaSGJQgTJnb-_SgM1EWfvBtb4tlDdPUgXyF148cAw_oPkepmEwgsO0o3fP3NKGgOdpNHntRyIrX7U9kX1ezxKJigumALMsQpNjc30UGCJ8TSlbJ5t5c 
+[26]: https://lh4.googleusercontent.com/_bp1X2dpsnKTBPDHNcQELoJ8YrtlhC3UzLzVmvMLnksQWPOWIQmouhG4EvxVFJwlMUGIpujXputLkmxH-P4nZdhT54pSyyeh6ATIgLAqk31D6lbqVG-D_7iwTjE 
+[27]: https://lh5.googleusercontent.com/6PYFIWY4uI_flZ_JtzFEtgzWEon-z9YO3-PpXH84mXSaTtfY4df-zynGiGxaLhwBmGHM1kmVMjJIO69-BImn7w_qChzoV_nbnBXTYiDycB5YZCy6rmxJUffe-7A 
+[28]: https://lh3.googleusercontent.com/wqJTF4vcRcsT_CviSzaTW2_8BKXxvLvKKQ-NltwTfLnRXOM2Z6VIEdZDeoQJiMrcPe34Y2bclBPPdykj1DHmoEPcg189dVgfggumKxceFIpL69_YwEwC6e82P9U 
+[29]: https://lh5.googleusercontent.com/_X3FD5CVJQcmDrA8UVdtQdn7DX0E2xiPmiup4BYGCrhK27jRSN5W-POMjNPdfpUt1okl9lTZuPyM6Hb5lEK-rRHQJ2uLLqLQ3PrwtGg0LL0iUpZfj_8oc_1Lk2U 
+[30]: https://lh6.googleusercontent.com/7Y8wZiSGlz4wN0XcVmodCItsNYmsq-kIymW33j5AlQF-7dMMlL1QvpQ9qa4hS-uNZl-yFTINWbrYiIwxuCUAPvu6IcFlWbEa2y--vJQI1RCQhBAh8pS8AAqDxY8 
+[31]: https://lh4.googleusercontent.com/RyBbQjXGf64Uib1xIcuzvmBlBcXA0JM1A7zOmEfTE5m3LMlTco1qb2wMpE7H93ZGRYBIJuN3TGxzviQGmdOzh8_0DmIUMHDXX_tCrMYPIu0FIBGMkXo1upOcWbk 
+[32]: https://lh5.googleusercontent.com/i2yMs4zXs2nApBVr_s3p8DLkfNXQXxAylVlw9aNocvvnvH6Ksoy1pfqhW74ypS4UHI7Ew6XuFenJIe3tyLuTfmbaFljMKlKS1soQMfHmJIIXhxKkHFwaBNapNfw 
+[33]: https://lh3.googleusercontent.com/pO6r4sFDHGX628ThuG2obUQKbyB_q6lDcqMoJPml5g38FP5fv4ZkVUJxkH_Izr5OIMEQh_L9l9xQBMuXF8w-RGqRpm0GlaRKeBR-_YdLOs68IICRq-fLNWrndPw 
+[34]: https://lh6.googleusercontent.com/DmpMedFzQnINl-V4Tf5kcJFNVx_70Zh-tskAN7K1rjsUZE644yp0oQjxr-BRZ-HoIBAN5lT6Usc_gOcnKOYhS_iqpzSZyYB5aqivr8rw59pMPdBHnvDlBI4yTmo
+[35]: https://lh3.googleusercontent.com/0He0w82kw31t0O2aQW8Ydpqt_3LCXXNFyPWG8l_4uTpkS-jKInXF9wzXgdwhhfVkjwTi8RSnwJN2nsoHUHIkAcilwkE-C7ZOPQTg1PpbQE1v-TNvVHlN1i2C3Hw 
+[36]: https://lh4.googleusercontent.com/X7exajKcCs7ugKQgcdQBrGmSS42EzZL0xHrsc0xmyonsKkrr97VjtoHPhanxKSzJmNJG8eNWa9iMYmL-fNUvGs02cpUPbG01gygdyBxwAVNFV71xmZyhJYmvngE
+[37]: https://lh3.googleusercontent.com/f41L7lhOBQSUmDNk2zu5wt2vSbKjy9IG7Hf7P5-sdBpCq5fjmNuktzEIMrRyYoQTAhAJi_71m7e06lvFCULRua-r2fPcIwKaqTIeR6wCA78d58FtmFBmyS05-FA 
+[38]: https://lh3.googleusercontent.com/W_RU_hmrBjRVUq4Cv5lJBTfiM0Ax9yXRtZVJ9wrSWh24VwHxxEgtSfcBKIrpHoQ29j8DD2ZNigboahq2V4gOnkrRqRfqu0tS7QX59HDikBum1exq9Be037FIPXY
+[39]: https://lh4.googleusercontent.com/GhO9z1xqrsQ5ym3TBsCyVL6NNm4NBZsl6ivB_flNpc_0_iTbXXLSbrKwQd6zmFQMi3hQyZSb0yY3Wf2aTWh_7oMh14lWFBx6-MDnIK0fIJWosBI0tiBVf65cud0
+[40]: https://lh4.googleusercontent.com/Q--_CFUSnNUsj9MOld2EPDb-Kx1PHBfP-l-lp4jh7n4iKVFxjFBvhdHlMj0D-QMGBpeAdUAeQA0mMouhnRgvUFGYUVLnA1xL1jumTVVdRU3E0OXP7IFXXTLGj2g
+[41]: https://lh3.googleusercontent.com/XdDEYB2yn7bQQ2JbdBzLciiHRdqP9zo_ZJbsabtGqpPAQNjXWDmJRRVRdr_Ce8mAqxARUvwdwKspFyRHUS3g0IAwPVMFYPo0kIvr2ZFKAeCxqqxmkTpMNUFgz0U
+[42]: https://lh4.googleusercontent.com/PI7QLfqCPr57h52SlnXHY4h715U72N_kAsW7b0KAMjQp4f68XTH3jWv9kPlJfRv3woOcbT41VwX6D3P8Hah4tgazX2D9iK6geuEbZCw7GIoeMHDh1WmNwccYGg8
