@@ -77,22 +77,11 @@ Ages 8+ (after Course 2)
 
 ][21]
 
-
-
-
-## Gallery
-
-# Play Lab
-
-## Our general course for
-
-# All Ages
-
-### Intro Course
+### All Ages Intro Course
 
 Try our 20-hour Intro to Computer Science course.
 
-![][34]
+[ ![][34]
 
 [35][Intro Course]
 
@@ -125,3 +114,4 @@ Try our 20-hour Intro to Computer Science course.
 [39]: http://code.org/tos
 [40]: http://code.org/privacy
   
+ 
