@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Other Useful Links
-categories: [ Resources]
+categories: [Resources]
 ---
 
 **Google [Start With Code](http://www.google.com.au/campaigns/startwithcode/parent.html)**
@@ -20,9 +20,6 @@ The content of this course is appropriate for kindergartners through 8th graders
 ---
 
 
-<section class="row content" role="main">
-<div class="twelve columns">
-<div class="slice text">
 <h2 id="further-resources">Further resources</h2>
 </div>
 
@@ -77,9 +74,6 @@ The content of this course is appropriate for kindergartners through 8th graders
 
         </div>
       </div>
-  </div>
-
-</div>
 
 
 <div class="slice boxes">
@@ -129,11 +123,7 @@ The content of this course is appropriate for kindergartners through 8th graders
 
         </div>
       </div>
-  </div>
-
-</div>
-
-
+  
   <hr />
 
 <div class="slice text">
@@ -189,13 +179,3 @@ The content of this course is appropriate for kindergartners through 8th graders
   </div>
  </div>
   </div>
-
-</div> 
-</div>
-<div class="eight columns">
-</div>
-<div class="four columns pad-left">
-</div>
-<div class="twelve columns">
-</div>
-</section>
